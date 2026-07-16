@@ -92,7 +92,7 @@ The system successfully detected multiple colored objects when they were separat
 ## Project Files
 
 - `Color_Recognition_Image.ipynb`  
-  Implementation and testing of color detection using images.
+  Implements and tests color recognition using images.
 
 - `Color_Recognition_Video.py`  
-  Color detection implementation for video input.
+  Implements color recognition for video input.
