@@ -100,17 +100,11 @@ The system successfully detected multiple colored objects when they were separat
 ### Image Detection
 
 1. Place the input image in the project folder.
-2. Update the image filename if needed:
-   ```python
-   img = cv2.imread("your_image.png")
-   ```
+2. Update the image name in the code if you use a different image.
 3. Run `Color_Recognition_Image.ipynb` or `Color_Recognition_Image.py`.
 
 ### Video Detection
 
-1. Place the video in the project folder or provide its full path.
-2. Update the video path in:
-   ```python
-   video_path = "your_video.mp4"
-   ```
+1. Place the video file in the project folder.
+2. Update the video path in the code.
 3. Run `Color_Recognition_Video.py`.
